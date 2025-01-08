@@ -4,3 +4,14 @@ x64/
 Debug/
 Release/
 *.user
+
+# Build results
+*.exe
+*.dll
+*.obj
+*.pdb    # Program database files for debugging
+*.ilk    # Incremental linking files
+*.log    # Log files
+*.tlog   # Timeline log files
+*.idb    # Browser database files
+*.pch    # Precompiled header files
