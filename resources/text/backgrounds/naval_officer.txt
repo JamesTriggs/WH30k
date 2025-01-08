@@ -1,0 +1,7 @@
+Imperial Navy Officer
+-----------------------
+Years of void service have made you an expert in naval operations and ship protocols. Your training encompasses both military discipline and the complex hierarchies of Imperial bureaucracy. You understand the delicate balance between following orders and knowing when to show initiative.
+
+Special Knowledge: Void warfare, ship operations, Imperial Navy protocols
+Background Bonus: Enhanced leadership abilities, better understanding of ship systems
+Notable Equipment: Officer's sidearm, void suit certification, command authorization codes

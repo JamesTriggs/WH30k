@@ -1,0 +1,7 @@
+Imperial Investigator
+-----------------------
+You serve as the eyes and ears of Imperial authority, trained to detect sedition and corruption wherever they might hide. Your skills in observation and deduction make you equally adept at uncovering both mundane crimes and signs of darker influences. Trust comes rarely, as your work has shown you how deep corruption can run.
+
+Special Knowledge: Investigation techniques, Imperial law, interrogation methods
+Background Bonus: Enhanced perception, better insight into deception
+Notable Equipment: Dataslate with security clearance, concealed auspex, recording devices

@@ -1,0 +1,7 @@
+Imperial Medicae Specialist
+-----------------------
+You've trained extensively in the medical facilities of Terra and various expedition fleets. Your skills extend beyond mere physical healing to understanding the complex effects of void travel and warp exposure on the human body. The horrors you've treated have given you a unique perspective on human fragility.
+
+Special Knowledge: Advanced medical procedures, trauma treatment, void exposure symptoms
+Background Bonus: Enhanced healing capabilities, better diagnostic abilities
+Notable Equipment: Advanced medkit, stimm injectors, surgical tools

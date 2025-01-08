@@ -1,0 +1,7 @@
+Mechanicum Tech-Adept
+-----------------------
+As an initiate of the Mechanicum, you have been trained in the sacred arts of technology. Your augmetic enhancements and deep understanding of machine spirits make you a valuable asset aboard any vessel. Though your loyalty lies primarily with Mars, you serve the Imperium's expansion through the maintenance of its war machines.
+
+Special Knowledge: Machine maintenance, tech-rituals, binary cant
+Background Bonus: Enhanced understanding of technology, ability to communicate with machine spirits
+Notable Equipment: Mechanicum tools, incense burner, data-slate with technical manuscripts

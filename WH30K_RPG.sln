@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WH30K_RPG", "WH30K_RPG.vcxproj", "{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "game", "game", "{97EF3A07-13A7-4262-A685-C17500EAC51C}"
+	ProjectSection(SolutionItems) = preProject
+		game.cpp = game.cpp
+		game.h = game.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "character", "character", "{F5A2F1CE-E1D4-4C09-A8D2-A04E16742042}"
+	ProjectSection(SolutionItems) = preProject
+		player.cpp = player.cpp
+		player.h = player.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "world", "world", "{4D88E5FA-00B9-4122-9E04-8B14C48FF40B}"
+	ProjectSection(SolutionItems) = preProject
+		location.cpp = location.cpp
+		location.h = location.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{C3FA2E6A-ABFB-4A7E-BA3E-3AAEF8C773E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "text", "text", "{C73EE8AD-C2E5-4858-BF38-9CE3736E810A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backgrounds", "backgrounds", "{B066C94E-A283-4A82-AD7E-450E0651503F}"
+	ProjectSection(SolutionItems) = preProject
+		investigator.txt = investigator.txt
+		medicae.txt = medicae.txt
+		naval_officer.txt = naval_officer.txt
+		tech_adept.txt = tech_adept.txt
+		veteran.txt = veteran.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prompts", "prompts", "{31AD4F81-DAA7-4A57-A715-61A0EA013E43}"
+	ProjectSection(SolutionItems) = preProject
+		character_creation.txt = character_creation.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{0C112719-DA57-40B9-B16B-E6FABA83DE6A}"
+	ProjectSection(SolutionItems) = preProject
+		ResourceManager.h = ResourceManager.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Debug|x64.ActiveCfg = Debug|x64
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Debug|x64.Build.0 = Debug|x64
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Debug|x86.Build.0 = Debug|Win32
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Release|x64.ActiveCfg = Release|x64
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Release|x64.Build.0 = Release|x64
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Release|x86.ActiveCfg = Release|Win32
+		{766C8E03-C208-4BA5-88DA-C18CBBD3AFF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C73EE8AD-C2E5-4858-BF38-9CE3736E810A} = {C3FA2E6A-ABFB-4A7E-BA3E-3AAEF8C773E1}
+		{B066C94E-A283-4A82-AD7E-450E0651503F} = {C73EE8AD-C2E5-4858-BF38-9CE3736E810A}
+		{31AD4F81-DAA7-4A57-A715-61A0EA013E43} = {C73EE8AD-C2E5-4858-BF38-9CE3736E810A}
+	EndGlobalSection
+EndGlobal
